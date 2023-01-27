@@ -1,0 +1,16 @@
+{
+  "name": "aula15-npxescriptsnpm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "hello": "hello-world-npm",
+    "start": "node script.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "hello-world-npm": "^1.1.1"
+  }
+}
